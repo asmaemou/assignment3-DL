@@ -1,0 +1,81 @@
+
+== 2x SimpleRNN — 20 validation examples ==
+1. EN: california is never chilly during winter but it is never warm in november
+   GT: californie est jamais froid pendant l' hiver mais il est jamais chaud en novembre
+   PR: california est jamais froid pendant l' hiver mais il est jamais chaud en novembre
+
+2. EN: my favorite fruit is the lemon but her favorite is the grapefruit
+   GT: mon fruit préféré est le citron mais son préféré est le pamplemousse
+   PR: mon fruit préféré est le citron mais son préféré est le pamplemousse
+
+3. EN: the grape is their favorite fruit but the strawberry is our favorite
+   GT: le raisin est leur fruit préféré mais la fraise est notre préféré
+   PR: le raisin est leur fruit préféré mais la poire est notre préféré
+
+4. EN: she dislikes pears oranges and apples
+   GT: elle déteste les poires les oranges et les pommes
+   PR: elle déteste les poires les oranges et les pommes
+
+5. EN: he plans to visit paris next july
+   GT: il envisage de visiter paris en juillet prochain
+   PR: il envisage de se rendre en chine en juillet
+
+6. EN: california is usually busy during april but it is usually chilly in august
+   GT: californie est généralement occupé en avril mais il est généralement froid en août
+   PR: californie est généralement froid en avril mais il est généralement froid en août
+
+7. EN: he disliked a rusty black automobile
+   GT: il n'aimait pas une voiture rouillée noir
+   PR: il n'aimait pas une voiture rouillée rouillée
+
+8. EN: india is nice during summer and it is beautiful in winter
+   GT: l' inde est agréable en été et il est beau en hiver
+   PR: l' inde est agréable en été et il est beau en hiver
+
+9. EN: he likes grapes pears and oranges
+   GT: il aime les raisins les poires et les oranges
+   PR: il aime les raisins les poires et les oranges
+
+10. EN: china is sometimes rainy during august and it is never snowy in february
+   GT: chine est parfois pluvieux au mois d' août et il est jamais de neige en février
+   PR: chine est parfois pluvieux au mois d' août et il est jamais de neige en février
+
+11. EN: the cat was his most feared animal
+   GT: le chat était son animal le plus redouté
+   PR: le serpent était mon animal le plus redouté
+
+12. EN: new jersey is usually cold during summer and it is sometimes dry in may
+   GT: new jersey est généralement froid pendant l' été et il est parfois sèche en mai
+   PR: new jersey est généralement froid pendant l' été et il est parfois sec en mai
+
+13. EN: the orange is my least favorite fruit but the strawberry is their least favorite
+   GT: l'orange est moins mon fruit préféré mais la fraise est leur moins préférée
+   PR: l'orange est mon fruit préféré moins mais la poire est leur moins préférée
+
+14. EN: france is hot during january but it is sometimes busy in march
+   GT: france est chaud en janvier mais il est parfois occupé en mars
+   PR: france est chaud en janvier mais il est parfois occupé en mars
+
+15. EN: the united states is never beautiful during june but it is never pleasant in autumn
+   GT: les états unis est jamais beau en juin mais il est jamais agréable à l' automne
+   PR: les états unis est jamais humide en juin mais il est jamais agréable à l' automne
+
+16. EN: the united states is wet during october but it is never busy in winter
+   GT: les états unis est humide en octobre mais il est jamais trop de monde en hiver
+   PR: les états unis est calme en octobre mais il est jamais trop en monde
+
+17. EN: her most feared animal is the bear
+   GT: son animal le plus redouté est l'ours
+   PR: son animal le plus aimé est que ours
+
+18. EN: she is driving the old blue car
+   GT: elle conduit la vieille voiture bleue
+   PR: elle conduit la vieille d' bleue
+
+19. EN: india is sometimes busy during february and it is usually beautiful in may
+   GT: l' inde est parfois occupé en février et il est généralement beau en mai
+   PR: l' inde est parfois froid en février et il est généralement beau en mai
+
+20. EN: new jersey is warm during june but it is sometimes rainy in autumn
+   GT: new jersey est chaud en juin mais il est parfois pluvieux en automne
+   PR: new jersey est chaud en juin mais il est parfois pluvieux à l' automne
