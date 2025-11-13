@@ -4,3 +4,5 @@ results
 results_1
 modelVAE.pth
 vae_cifar10_tf.h5
+
+conda activate visionfix   to run the code of DCGAN
