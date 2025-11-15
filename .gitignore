@@ -1,7 +1,6 @@
 data
 denoising-dirty-documents
-results
-results_1
+results/
 modelVAE.pth
 vae_cifar10_tf.h5
 
